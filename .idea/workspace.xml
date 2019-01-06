@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="200ad303-ba96-4191-9a86-0c6084432b8b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ClusterLabel$views.coverage" NAME="views Coverage Results" MODIFIED="1546572519612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/App" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="xgrobot@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="xgrobot@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="xgrobot@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="xgrobot: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ClusterLabel" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/facecluster/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/facecluster/tests.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/facecluster/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/facecluster/migrations/0001_initial.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ClusterLabel/urls.py" />
+        <option value="$PROJECT_DIR$/ClusterLabel/__init__.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/0ad3ffd7-2113-42be-945c-632aebc0eaff/console.sql" />
+        <option value="$PROJECT_DIR$/templates/upload.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/App/views.py" />
+        <option value="$PROJECT_DIR$/App/models.py" />
+        <option value="$PROJECT_DIR$/App/urls.py" />
+        <option value="$PROJECT_DIR$/ClusterLabel/settings.py" />
+        <option value="$PROJECT_DIR$/App/apps.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ClusterLabel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClusterLabel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClusterLabel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClusterLabel" type="462c0819:PsiDirectoryNode" />
+              <item name="ClusterLabel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClusterLabel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClusterLabel" type="462c0819:PsiDirectoryNode" />
+              <item name="facecluster" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.views">
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ClusterLabel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/App" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/App/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ClusterLabel" type="Python.DjangoServer" factoryName="Django server">
+      <module name="ClusterLabel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="200ad303-ba96-4191-9a86-0c6084432b8b" name="Default Changelist" comment="" />
+      <created>1546395468383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546395468383</updated>
+      <workItem from="1546395470307" duration="10030000" />
+      <workItem from="1546478614177" duration="2299000" />
+      <workItem from="1546482506512" duration="4585000" />
+      <workItem from="1546495993054" duration="2638000" />
+      <workItem from="1546520819673" duration="7300000" />
+      <workItem from="1546570219884" duration="6471000" />
+      <workItem from="1546588253714" duration="3162000" />
+      <workItem from="1546592636533" duration="221000" />
+      <workItem from="1546593085877" duration="1767000" />
+      <workItem from="1546745381212" duration="1281000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="39754000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49931973" visible="true" weight="0.21514745" />
+      <window_info id="Favorites" order="1" sideWeight="0.50068027" side_tool="true" weight="0.10522788" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3292517" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23933975" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3292517" />
+      <window_info anchor="bottom" id="Database Console" order="7" weight="0.3292517" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Structure" order="11" sideWeight="0.50068027" weight="0.104761906" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.8552279" visible="true" weight="0.25714287" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.14477211" side_tool="true" weight="0.47891158" />
+      <window_info anchor="bottom" id="Python Console" order="14" weight="0.3292517" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="Database" order="4" weight="0.2077748" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49931973" visible="true" weight="0.14008042" />
+      <window_info id="Favorites" order="1" sideWeight="0.50068027" side_tool="true" weight="0.10522788" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39455783" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3292517" />
+      <window_info anchor="bottom" id="Database Console" order="7" weight="0.3292517" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Structure" order="11" sideWeight="0.50068027" weight="0.104761906" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.8552279" weight="0.47891158" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.14477211" side_tool="true" weight="0.47891158" />
+      <window_info anchor="bottom" id="Python Console" order="14" weight="0.3292517" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3297587" />
+      <window_info active="true" anchor="right" id="Database" order="4" visible="true" weight="0.2077748" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/0ad3ffd7-2113-42be-945c-632aebc0eaff/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/env/Lib/site-packages/django/db/models/fields/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="44" selection-start-line="44" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/env/Lib/site-packages/django/db/models/fields/files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1287">
+          <caret line="39" column="6" selection-start-line="39" selection-start-column="6" selection-end-line="41" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facecluster/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/资料/day02/src/methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-899" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/资料/day02/src/untitled.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://0ad3ffd7-2113-42be-945c-632aebc0eaff/schema/xgrobot/table/app_tratable.sql" />
+    <entry file="uml://DATABASE/0ad3ffd7-2113-42be-945c-632aebc0eaff.SCHEMA:xgrobot">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>0ad3ffd7-2113-42be-945c-632aebc0eaff.SCHEMA:xgrobot</OriginalElement>
+          <nodes>
+            <node x="" y="">0ad3ffd7-2113-42be-945c-632aebc0eaff.TABLE:xgrobot.app_path</node>
+            <node x="" y="">0ad3ffd7-2113-42be-945c-632aebc0eaff.TABLE:xgrobot.django_content_type</node>
+            <node x="" y="">0ad3ffd7-2113-42be-945c-632aebc0eaff.TABLE:xgrobot.auth_group_permissions</node>
+            <node x="" y="">0ad3ffd7-2113-42be-945c-632aebc0eaff.TABLE:xgrobot.django_migrations</node>
+            <node x="" y="">0ad3ffd7-2113-42be-945c-632aebc0eaff.TABLE:xgrobot.django_admin_log</node>
+            <node x="" y="">0ad3ffd7-2113-42be-945c-632aebc0eaff.TABLE:xgrobot.auth_permission</node>
+            <node x="" y="">0ad3ffd7-2113-42be-945c-632aebc0eaff.TABLE:xgrobot.app_tratable</node>
+            <node x="" y="">0ad3ffd7-2113-42be-945c-632aebc0eaff.TABLE:xgrobot.auth_user</node>
+            <node x="" y="">0ad3ffd7-2113-42be-945c-632aebc0eaff.TABLE:xgrobot.auth_user_user_permissions</node>
+            <node x="" y="">0ad3ffd7-2113-42be-945c-632aebc0eaff.TABLE:xgrobot.auth_user_groups</node>
+            <node x="" y="">0ad3ffd7-2113-42be-945c-632aebc0eaff.TABLE:xgrobot.django_session</node>
+            <node x="" y="">0ad3ffd7-2113-42be-945c-632aebc0eaff.TABLE:xgrobot.app_imgmodel</node>
+            <node x="" y="">0ad3ffd7-2113-42be-945c-632aebc0eaff.TABLE:xgrobot.app_person</node>
+            <node x="" y="">0ad3ffd7-2113-42be-945c-632aebc0eaff.TABLE:xgrobot.auth_group</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0256756756756755" x="485.0" y="1007.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/wsgiref/simple_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/migrations/0002_path_headimg.py" />
+    <entry file="file://$PROJECT_DIR$/App/migrations/0001_initial.py" />
+    <entry file="uml://DjangoModelDependency/#ClusterLabel">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DjangoModelDependency</ID>
+          <OriginalElement>#ClusterLabel</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="668.0" y="342.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/uploads/th.jpg" />
+    <entry file="file://$PROJECT_DIR$/static/upload/d9f9b375-de88-4893-a47f-3f7a35f3aed5None" />
+    <entry file="file://$PROJECT_DIR$/static/uploads/W020160720354949724604.jpg" />
+    <entry file="file://$USER_HOME$/env/Lib/site-packages/pymysql/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://0ad3ffd7-2113-42be-945c-632aebc0eaff/schema/xgrobot/table/app_path" />
+    <entry file="das://0ad3ffd7-2113-42be-945c-632aebc0eaff/schema/xgrobot/table/app_imgmodel" />
+    <entry file="das://0ad3ffd7-2113-42be-945c-632aebc0eaff/schema/xgrobot/table/app_person" />
+    <entry file="das://0ad3ffd7-2113-42be-945c-632aebc0eaff/schema/xgrobot/table/app_tratable" />
+    <entry file="das://0ad3ffd7-2113-42be-945c-632aebc0eaff/schema/xgrobot/table/auth_group" />
+    <entry file="file://$USER_HOME$/env/Lib/site-packages/pymysql/err.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/env/Lib/site-packages/pymysql/cursors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="146" selection-start-line="146" selection-end-line="146" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://584fcd90-1244-4682-8db6-3f02f3a16ccf/schema/xgrobot/table/app_imgmodel" />
+    <entry file="das://584fcd90-1244-4682-8db6-3f02f3a16ccf/schema/xgrobot/table/app_path" />
+    <entry file="das://584fcd90-1244-4682-8db6-3f02f3a16ccf/schema/xgrobot/table/app_tratable" />
+    <entry file="das://584fcd90-1244-4682-8db6-3f02f3a16ccf/schema/xgrobot/table/auth_permission" />
+    <entry file="das://584fcd90-1244-4682-8db6-3f02f3a16ccf/schema/xgrobot/table/auth_group_permissions" />
+    <entry file="file://$PROJECT_DIR$/media/uploads/20180907183108.png" />
+    <entry file="das://584fcd90-1244-4682-8db6-3f02f3a16ccf/schema/xgrobot/table/auth_group" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/584fcd90-1244-4682-8db6-3f02f3a16ccf/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://584fcd90-1244-4682-8db6-3f02f3a16ccf/schema/xgrobot/table/app_person" />
+    <entry file="file://$PROJECT_DIR$/templates/upload.html" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/771d275b-e0cb-4fbc-80a3-0e0425cbf71f/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClusterLabel/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/dbed1228-a0f4-43ea-86e4-03f35dfd004e/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClusterLabel/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facecluster/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClusterLabel/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/771d275b-e0cb-4fbc-80a3-0e0425cbf71f.SCHEMA:xgrobot">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>771d275b-e0cb-4fbc-80a3-0e0425cbf71f.SCHEMA:xgrobot</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.3794162826420891" x="945.0" y="631.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facecluster/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/dbed1228-a0f4-43ea-86e4-03f35dfd004e.SCHEMA:xgrobot">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>dbed1228-a0f4-43ea-86e4-03f35dfd004e.SCHEMA:xgrobot</OriginalElement>
+          <nodes>
+            <node x="" y="">dbed1228-a0f4-43ea-86e4-03f35dfd004e.TABLE:xgrobot.auth_group</node>
+            <node x="" y="">dbed1228-a0f4-43ea-86e4-03f35dfd004e.TABLE:xgrobot.app_resulttable</node>
+            <node x="" y="">dbed1228-a0f4-43ea-86e4-03f35dfd004e.TABLE:xgrobot.auth_permission</node>
+            <node x="" y="">dbed1228-a0f4-43ea-86e4-03f35dfd004e.TABLE:xgrobot.django_migrations</node>
+            <node x="" y="">dbed1228-a0f4-43ea-86e4-03f35dfd004e.TABLE:xgrobot.django_admin_log</node>
+            <node x="" y="">dbed1228-a0f4-43ea-86e4-03f35dfd004e.TABLE:xgrobot.auth_user</node>
+            <node x="" y="">dbed1228-a0f4-43ea-86e4-03f35dfd004e.TABLE:xgrobot.auth_group_permissions</node>
+            <node x="" y="">dbed1228-a0f4-43ea-86e4-03f35dfd004e.TABLE:xgrobot.app_path</node>
+            <node x="" y="">dbed1228-a0f4-43ea-86e4-03f35dfd004e.TABLE:xgrobot.app_tratable</node>
+            <node x="" y="">dbed1228-a0f4-43ea-86e4-03f35dfd004e.TABLE:xgrobot.app_userlist</node>
+            <node x="" y="">dbed1228-a0f4-43ea-86e4-03f35dfd004e.TABLE:xgrobot.app_person</node>
+            <node x="" y="">dbed1228-a0f4-43ea-86e4-03f35dfd004e.TABLE:xgrobot.django_content_type</node>
+            <node x="" y="">dbed1228-a0f4-43ea-86e4-03f35dfd004e.TABLE:xgrobot.django_session</node>
+            <node x="" y="">dbed1228-a0f4-43ea-86e4-03f35dfd004e.TABLE:xgrobot.auth_user_user_permissions</node>
+            <node x="" y="">dbed1228-a0f4-43ea-86e4-03f35dfd004e.TABLE:xgrobot.app_imgmodel</node>
+            <node x="" y="">dbed1228-a0f4-43ea-86e4-03f35dfd004e.TABLE:xgrobot.auth_user_groups</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.7794162826420891" x="536.0" y="1054.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facecluster/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facecluster/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facecluster/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facecluster/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
